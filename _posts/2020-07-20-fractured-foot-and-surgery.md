@@ -7,6 +7,7 @@ tags: [thoughts]
 
 Back in February this year, I fell while bouldering and fractured my foot due to improper landing. During the three months of recovery, I’ve been pondering and reflecting a lot. Well, something people tend to do when they have excessive free time. However, if my thoughts only remain in my head, they have the lowest values. Hence, here I organized my thoughts into a post, for memorization and sharing purposes.
 
+
 ### Take good care of your body
 
 This has probably been mentioned thousands of times but ignored by most people. We are just so used to a healthy, functioning body. The first month after my surgery, I had to spend more than three times the energy and time to finish things that were once so simple. Tasks cannot be more normal like washing dishes, doing laundry, cooking, and even going to the restroom. For about two weeks, my food has been alternations between yogurt, bread, protein powder, and bananas. As a person who loves food though not picky, it was bearable but definitely not enjoyable.
@@ -15,6 +16,7 @@ The most challenging days are the first three days after surgery, especially the
 
 But I’m a person who’s quite stubborn sometimes. It didn’t take me long before I started to think: maybe it is true that my bones won’t be the same anymore, but I can correct my gait and strengthen related muscles to make up for the change. Not to mention that I’m still young, and I shall be recovering fast. There are certain things that I cannot control, but for whatever that I can control, I will work hard for them. Here, it leads to the second point that I want to talk about.
 
+
 ### Shift your perspective 
 
 If someone looks at the pure fact of my fracture, he or she probably wouldn’t say it’s a positive experience, but at a higher level, it does help me grow a lot. Before the incident, I have a rough idea that everybody can control and choose what they want to experience because there is hardly a single right way to interpolate something. Most of the time, what is real is only a reflection of our inner world, and we should all be responsible for our feelings. This is not to say we shall not have negative emotions, but more in the sense that we shall face our feelings and understand the cause behind it. Once we identify the reason, we can choose whatever way we want to react, and be responsible for our choice.
@@ -22,6 +24,7 @@ If someone looks at the pure fact of my fracture, he or she probably wouldn’t 
 Several days after I was diagnosed as Lisfranc Fracture, I was immersed in anxiety and pains, blaming myself for my reckless act and over-trusting the doctor who misdiagnosed my injury so that I was left with only a short window time for seeking the best treatment. With all the scary cases I saw online, I feared that I would no longer be walking pain-free for the rest of my life. I could not stop finding papers and seeking similar cases because I did not want to accept the surgery plan my doctor gave me.
 
 Were my emotions at the time normal? Yes, they couldn’t be more normal. However, they didn’t serve me at all. The only things they provided me were three sleepless nights. Therefore, after making up my mind that I would accept the surgery plan my doctor offered me, I told myself, it’s going to be okay, you’re stronger than you thought. Accept what has already happened, and do the best for what you can. Because of this thought, I started daily physical therapy three days after surgery to prevent muscle atrophy on my injured side of the body. Because of that thought, I no longer focused on what I could not do, but on places of improvement.  Because of that thought, the pains became less significant with everything getting better each day. Because of that thought, I began to realize that there are so many beautiful things we can appreciate in life.
+
 
 ### Be grateful for people who share kindness and offer help when you need them
 
