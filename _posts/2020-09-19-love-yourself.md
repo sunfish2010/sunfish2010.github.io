@@ -1,0 +1,32 @@
+---
+layout: post
+title: "What does it mean to love yourself?"
+description: "Is it enough to 'be yourself'?"
+tags: [thoughts]
+---
+
+"Love yourself", a phrase that I have seen so many times during the past few years. Yet, every time I see it, I can not help but wonder: what does it mean? Some associate this phrase with activities like taking a bath, enjoying a nice meal, having a message, or purchasing material goods. Some connect it with ideas like "be yourself" or "accept who you are". However, I was never entirely sold by these proposals as they all seem to be describing behaviors a self-loving person would have. Acting in specific ways might help construct a confident image, but it cannot change a person's core. To fake it until you make it, you need to figure out methods to make it in the end. 
+
+To me, the concept of self-love is similar to a treasure chest. However, most of us only hold the chest, not the key. Each of us needs to manufacture our unique keys. So how to create the key? I cannot say I have fully figured the answer out. But I want to share the recipe I have come up with during my 10+ years seeking the solution. By doing so, I hope there's something you can take away from it to create yours.
+
+# Be cautious about the mindset of "If ..., I'll ..." 
+
+One mindset I often trapped myself into is the idea that others would like me if I could make certain achievements. For example, thoughts like "If I can earn more money", "If I can lose 10 pounds", or "If I can be more humorous", then people would like me. I do not deny that, in general, people with these traits are more attractive than people who do not possess these traits. However, it's dangerous if the only incentive behind the change is to be liked. There is no way for a person to be appreciated by everyone, well, unless you're a genie. Chasing after a goal that can never be accomplished only leads to an increasing amount of unfulfilled desires. It is also crucial to think about whether your change will attract the people you want to attract, and learn to differentiate people who are only interested in taking advantage of you versus people who want to help you grow. 
+
+# Understand that most problems are not about you
+
+There is a concept in the book *How do you live?* by Yoshino Genzaburo that I resonate well with. The author mentioned how people know that the earth is orbiting around the sun, but we never say the area we live in spins away from the sun. Instead, we say the sun sets, or the sun rises. 
+
+As human beings, We tend to over-estimate our importance to others, especially when we dwell on our own mistakes. The truth is, most people are as focused on themselves as you do on yourself, and they don't care that much about what you do unless it directly affects them. When people do pay attention to your behaviors, however, most of the time they genuinely care about your happiness and well-being. Thus, it would be best if you kept in mind that even they criticize you, they are there to help you grow. I'm not justifying for violent communication styles here, but shifting your mindset away from being a victim and knowing that those people want to foster your growth help let the ego go. In rare scenarios, there could also be haters. In this case, ask yourself if you wish to spend your precious energy and time on them. Note that your time is limited. The more time you spend on people who are not worth it, the less you get to spend with your loved ones. For the latter group, 
+
+# Set proper boundaries 
+
+Boundaries help us define and protect our properties. Here, I'm not only talking about materialistic ones. Time, our bodies, and our obligations are all our properties, and we shall be clear when others are trespassing. It might sound easy, but it requires a fair amount of courage, particularly when we are doing so in front of people of authorities and those we care about.  We need to be brave enough to face our fear of potential losses. However, standing firmly on your boundaries might be one of the most potent acts to show others that you know your values. For those who are still not respectful after you have clearly stated your boundaries, consider again whether you truly want this person in your life. Valuing your boundaries also help you respect others' boundaries, so you don't take things personally when others reject you.
+
+# Stay open-minded and embrace diversity
+ 
+I always believe that it is vital for us to stay open-minded and listen to others with diverse backgrounds for their unique stories as the world is not a black and white place. There is no single right way of living. Even what you see as wrong might not be wrong from another person's perspective. Our understandings and values about the world are built from our own experiences, which are limited in nature. If you have truly listened, I believe you will more likely to accept that there is no right or wrong, good or bad. They are merely experiences. Thus, why would you want to box yourself in a human-made concept to fit into somebody else's expectations? So you might ask: "Are you saying that I should just be myself?". On the contrary, I'm no advocate for the idea of "being yourself" because if you can be happy being yourself, you would not wonder what self-love is in the first place. However, it is critical to be aware of whether you're criticizing yourself for values that don't truly align with yours.
+
+# Think about who you want to be and work toward it step by step
+
+As I previously mentioned, I'm not an avid believer in the concept of "being yourself". I think one thing beautiful about human beings is that we can recognize our deficits and learn from our mistakes, and we're social animals in nature. Therefore, it is nearly impossible to build self-images without references from others. The problem is to have a clear vision of who you want to become. Otherwise, you can easily stray from your path because of other's expectations. Once you've identified your goals, work toward it step by step. Don't expect drastic changes overnight because there are no magic pills. Find people who share similar goals and values so you can support and encourage each other. With more positive feedback, your confidence will naturally increase as you uncover your values, find people who appreciate you, and build your support network. I genuinely believe that human beings are powerful creatures, so never underestimate your potentials and who you can become.
