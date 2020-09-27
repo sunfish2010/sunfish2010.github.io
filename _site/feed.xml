@@ -7,6 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Personality tests</title>
+        <description>Some common myths and my take on it.</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/posts/personality-tests</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/personality-tests</guid>
+      </item>
+    
+      <item>
         <title>Books I have finished reading in 2020</title>
         <description>Last Updated: 2020-09-23</description>
         <pubDate>Wed, 23 Sep 2020 00:00:00 -0700</pubDate>
