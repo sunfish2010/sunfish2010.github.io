@@ -7,6 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>The Power of Gratitude.</title>
+        <description>How keeping a gratitude journal changes the way I see the world.</description>
+        <pubDate>Mon, 30 Nov 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/gratitude</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/gratitude</guid>
+      </item>
+    
+      <item>
         <title>Labels, Stereotypes, and Defaults.</title>
         <description>Some thoughts after finishing the book 'Talking to Strangers'.</description>
         <pubDate>Mon, 16 Nov 2020 00:00:00 -0800</pubDate>
@@ -76,14 +84,6 @@
         <pubDate>Sun, 06 Sep 2020 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/posts/the-compound-effect</link>
         <guid isPermaLink="true">http://localhost:4000/posts/the-compound-effect</guid>
-      </item>
-    
-      <item>
-        <title>Fractured foot and having the first surgery in my life</title>
-        <description>The experience and what I have learnt from it.</description>
-        <pubDate>Mon, 20 Jul 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/posts/fractured-foot-and-surgery</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/fractured-foot-and-surgery</guid>
       </item>
     
   </channel>
