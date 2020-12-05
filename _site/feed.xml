@@ -7,6 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>What is preventing me from becoming who I want to be?</title>
+        <description>My ego, my struggles, and my insecurities.</description>
+        <pubDate>Fri, 04 Dec 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/ego</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/ego</guid>
+      </item>
+    
+      <item>
         <title>The Power of Gratitude.</title>
         <description>How keeping a gratitude journal changes the way I see the world.</description>
         <pubDate>Mon, 30 Nov 2020 00:00:00 -0800</pubDate>
@@ -76,14 +84,6 @@
         <pubDate>Tue, 15 Sep 2020 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/posts/grow-up</link>
         <guid isPermaLink="true">http://localhost:4000/posts/grow-up</guid>
-      </item>
-    
-      <item>
-        <title>The Compound Effect</title>
-        <description>by Darren Hardy</description>
-        <pubDate>Sun, 06 Sep 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/posts/the-compound-effect</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/the-compound-effect</guid>
       </item>
     
   </channel>
