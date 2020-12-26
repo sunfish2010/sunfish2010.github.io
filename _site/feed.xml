@@ -7,6 +7,14 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>We are all miracles.</title>
+        <description>Luck, the sparkling luck.</description>
+        <pubDate>Sat, 26 Dec 2020 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/luck</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/luck</guid>
+      </item>
+    
+      <item>
         <title>What is preventing me from becoming who I want to be?</title>
         <description>My ego, my struggles, and my insecurities.</description>
         <pubDate>Fri, 04 Dec 2020 00:00:00 -0800</pubDate>
@@ -76,14 +84,6 @@
         <pubDate>Sat, 19 Sep 2020 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/posts/love-yourself</link>
         <guid isPermaLink="true">http://localhost:4000/posts/love-yourself</guid>
-      </item>
-    
-      <item>
-        <title>Can I be 'Peter Pan' forever?</title>
-        <description>What it costs to grow up.</description>
-        <pubDate>Tue, 15 Sep 2020 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/posts/grow-up</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/grow-up</guid>
       </item>
     
   </channel>
