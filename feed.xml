@@ -1,20 +1,90 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>Imagiquarium | 拾光水族馆</title>
+    <description></description>
+    <link>https://sunfish2010.github.io/</link>
+    <atom:link href="https://sunfish2010.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Time Travel</title>
+        <description>How reliable is our memory?</description>
+        <pubDate>Sun, 07 Feb 2021 00:00:00 -0800</pubDate>
+        <link>https://sunfish2010.github.io//posts/time-travel</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/time-travel</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>We are all miracles.</title>
+        <description>Luck, the sparkling luck.</description>
+        <pubDate>Sat, 26 Dec 2020 00:00:00 -0800</pubDate>
+        <link>https://sunfish2010.github.io//posts/luck</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/luck</guid>
+      </item>
+    
+      <item>
+        <title>What is preventing me from becoming who I want to be?</title>
+        <description>My ego, my struggles, and my insecurities.</description>
+        <pubDate>Fri, 04 Dec 2020 00:00:00 -0800</pubDate>
+        <link>https://sunfish2010.github.io//posts/ego</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/ego</guid>
+      </item>
+    
+      <item>
+        <title>The Power of Gratitude.</title>
+        <description>How keeping a gratitude journal changes the way I see the world.</description>
+        <pubDate>Mon, 30 Nov 2020 00:00:00 -0800</pubDate>
+        <link>https://sunfish2010.github.io//posts/gratitude</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/gratitude</guid>
+      </item>
+    
+      <item>
+        <title>Labels, Stereotypes, and Defaults.</title>
+        <description>Some thoughts after finishing the book 'Talking to Strangers'.</description>
+        <pubDate>Mon, 16 Nov 2020 00:00:00 -0800</pubDate>
+        <link>https://sunfish2010.github.io//posts/defaults</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/defaults</guid>
+      </item>
+    
+      <item>
+        <title>Procrastination.</title>
+        <description>Is procrastination necessarily a negative trait?</description>
+        <pubDate>Tue, 27 Oct 2020 00:00:00 -0700</pubDate>
+        <link>https://sunfish2010.github.io//posts/procrastination</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/procrastination</guid>
+      </item>
+    
+      <item>
+        <title>Why is it getting harder to make new friends after college?</title>
+        <description>What can we do to make it better?</description>
+        <pubDate>Wed, 07 Oct 2020 00:00:00 -0700</pubDate>
+        <link>https://sunfish2010.github.io//posts/friendship</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/friendship</guid>
+      </item>
+    
+      <item>
+        <title>Crossed Paths</title>
+        <description>To the people in my life.</description>
+        <pubDate>Tue, 29 Sep 2020 00:00:00 -0700</pubDate>
+        <link>https://sunfish2010.github.io//posts/crossed-paths</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/crossed-paths</guid>
+      </item>
+    
+      <item>
+        <title>Personality tests</title>
+        <description>Some common myths and my take on it.</description>
+        <pubDate>Sat, 26 Sep 2020 00:00:00 -0700</pubDate>
+        <link>https://sunfish2010.github.io//posts/personality-tests</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/personality-tests</guid>
+      </item>
+    
+      <item>
+        <title>Books I have finished reading in 2020</title>
+        <description>Last Updated: 2020-09-23</description>
+        <pubDate>Wed, 23 Sep 2020 00:00:00 -0700</pubDate>
+        <link>https://sunfish2010.github.io//posts/books-2020</link>
+        <guid isPermaLink="true">https://sunfish2010.github.io//posts/books-2020</guid>
+      </item>
+    
   </channel>
 </rss>
